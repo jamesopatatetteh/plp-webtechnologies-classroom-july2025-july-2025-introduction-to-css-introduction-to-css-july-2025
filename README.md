@@ -49,11 +49,11 @@ To view the styled page on your computer:
 
 1. Clone or download this repository.  
    ```bash
-   git clone https://github.com/your-username/css-basics-assignment.git
-Open the project folder.
+   git clone https://github.com/jamesopatatetteh/plp-webtechnologies-classroom-july2025-july-2025-introduction-to-css-introduction-to-css-july-2025.git
+2. Open the project folder.
 
-Locate the index.html file.
+3. Locate the index.html file.
 
-Open it in your browser (double-click or right-click → Open With → Browser).
+4. Open it in your browser (double-click or right-click → Open With → Browser).
 
 You should now see the styled page and experiment with the Box Model by editing the styles.css file.
